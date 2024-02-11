@@ -1,0 +1,8 @@
+diet_plan,carbohydrates_max_g,protein_min_g,fat_max_g,max_calories_kcal
+FODMAP,50,100,60,2000
+Mediterranean,80,90,70,2200
+DASH,60,110,50,1800
+Vegetarian,70,80,65,2000
+Vegan,60,75,55,1800
+Paleo,50,100,60,2000
+Ketogenic,30,120,100,1500
